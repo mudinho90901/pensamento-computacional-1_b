@@ -4,8 +4,6 @@ repositorio para compartilhar arquivos de pensamento computacional
 
 eduardo augusto N8 
 
-gabriel pereira N15
-
 **batatinha**
 
 Batatinha quando nasce espalha a rama pelo chão.
